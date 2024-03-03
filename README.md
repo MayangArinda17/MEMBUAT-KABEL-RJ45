@@ -1,1 +1,15 @@
-MEMBUAT KABEL RJ45 
+MEMBUAT KABEL RJ45 STAIGHT DAN CROSS
+
+
+ALAT DAN BAHAN
+
+1.KABEL RJ45
+
+
+![WhatsApp Image 2024-03-03 at 15 33 54_b3f7a4b9](https://github.com/MayangArinda17/MEMBUAT-KABEL-RJ45/assets/150981696/dc5c9e04-35d4-4d7d-86ed-3716fadf2375)
+
+
+
+
+
+2.
